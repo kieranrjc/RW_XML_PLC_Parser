@@ -3,3 +3,5 @@
 *.md
 obj/
 bin/
+.vs/
+.vscode/
